@@ -1,0 +1,22 @@
+footer {
+  background: $dark;
+  height: 200px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  #socials {
+    font-size: 18px;
+    margin-bottom: 1em;
+  }
+
+  .fa-stack-1x {
+    color: #2F2FA2;
+  }
+
+  a:hover {
+    text-decoration: none;
+    color: $pinky;
+  }
+}
