@@ -113,7 +113,7 @@
         Jasna is one of the most driven and dedicated individuals I have ever met.</blockquote>
       <img src="<?php bloginfo('template_directory');?>/images/maja.jpg" alt="Marija Saric">
       <h4>MARIJA SARIC</h4>
-      h5>Director Of Foundation Of Wings Of Hope</h5>
+      <h5>Director Of Foundation Of Wings Of Hope</h5>
     </div>                  
     <div class="testimony">
       <i class="fa fa-quote-right fa-3x" aria-hidden="true"></i>
